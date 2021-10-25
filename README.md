@@ -2,4 +2,4 @@
 INU Capstone Design - Team NULL
 
 
-Project Name: NULL
+Project Name: NONE
